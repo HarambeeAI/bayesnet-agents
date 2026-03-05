@@ -6,7 +6,7 @@
 
 ## 🧠 What Is This?
 
-**Bayesnet Full Stack Agentic Coding Team** is Bayes Consulting's internal AI agent system — a curated collection of specialized agent personalities built on top of [The Agency](https://github.com/msitarzewski/agency-agents) framework, tailored for our consulting delivery model.
+**Bayesnet Full Stack Agentic Coding Team** is Bayes Consulting's internal AI agent system — a curated collection of specialized agent personalities built on top of [The Agency] framework, tailored for our consulting delivery model.
 
 Each agent is:
 
@@ -233,7 +233,6 @@ This activates the Bayesnet team router — describe your task and the right age
 
 ## 📜 License & Attribution
 
-Built on [The Agency](https://github.com/msitarzewski/agency-agents) by msitarzewski — MIT Licensed.
 
 Bayesnet customizations © Bayes Consulting.
 
