@@ -1,4 +1,4 @@
-# ⚡ Bayesnet Full Stack Agentic Coding Team
+# ⚡ Bayesnet Full Stack Agentic Product Delivery Team
 
 > **A battle-tested AI consulting squad at your fingertips** — From rapid prototypers to reality checkers, from data architects to brand guardians. Every agent is a specialized expert built for Bayes Consulting's rapid prototyping and client delivery workflows.
 
